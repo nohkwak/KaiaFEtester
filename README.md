@@ -1,4 +1,4 @@
-# synpress examples
+# synpress examples v3
 
 This repository contains different examples of usage for [synpress](https://github.com/Synthetixio/synpress) which is e2e testing framework for web3 dapps.
 
