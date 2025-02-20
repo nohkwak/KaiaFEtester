@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "allowJs": true,
-    "baseUrl": "./",
+    "baseUrl": "https://portal.kaia.io",
     "types": [
       "cypress",
       "@synthetixio/synpress/support",
